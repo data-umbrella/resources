@@ -15,14 +15,19 @@ The [Data Events Board](https://events.dataumbrella.org/about) is a Data Umbrell
 
 ### Required Skills
 1. Must have at least *one* of the following:  
-    - Python / Flask
-    - Foundation of Python / Django
-    - React 
-    - JavaScript
+    - Python or JavaScript
+    - One of the frameworks: Flask / Django / React / Ruby on Rails 
 2. Should have some knowledge of:
     - Git basics
     - Basic HTML / CSS
     - [Markdown](https://github.com/data-umbrella/resources/blob/main/intro-unix-markdown/4_markdown.md)
+
+Nice to have skills:  
+- Docker
+- Testing
+- PostgreSQL database
+- Digital Ocean
+- GitHub Actions
 
 Note: prospective interns can have acquired skills via a computer science degree, a bootcamp program, or coding classes.
 

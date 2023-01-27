@@ -12,6 +12,7 @@
     - Git basics
 
 ### Pre-work
+- Set up your [working environment](https://github.com/data-umbrella/event-board-web/blob/main/CONTRIBUTING.md)
 - Submit at least one pull request to one of these repo's:
    - [event-board-web](https://github.com/data-umbrella/event-board-web)
    - [event-board-api](https://github.com/data-umbrella/event-board-api)

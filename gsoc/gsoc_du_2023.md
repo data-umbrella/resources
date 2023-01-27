@@ -1,4 +1,12 @@
-# Data Umbrella: 2023 Google Summer of Code
+# Data Umbrella
+## GSOC 2023:  Data Events Board
+
+## Welcome
+Thanks for your interest in applying for Google Summer of Code with Data Umbrella. We welcome applications from all backgrounds, identities and abilities and encourage
+applications from under-represented groups in tech.
+
+This is the first time that Data Umbrella has applied to the GSOC program.  We recommend you go through the getting started guide and get yourselves acquainted with the project before you start working on your proposals.
+
 
 ## About: Data Events Board
 The [Data Events Board](https://events.dataumbrella.org/about) is a Data Umbrella initiative. This platform is for the community to share their events. In the spirit of open source, this event board has been built using open source software (Python, Django, React) and the application code is publicly available.
@@ -32,14 +40,19 @@ In your application please include answers to the following questions:
 
 Once you’ve selected a project assignment from the ideas page, please include a well-defined, weekly schedule with clear milestones and deliverables around it. Alternatively, if you want to propose your own idea then please include outline, goals, and a well-defined weekly schedule with clear milestones and deliverables.
 
+### Potential Mentors
+- Joe Torreggiani
+- Reshama Shaikh
+
 ### Contact
 - Email:  info@dataumbrella.org
 
-### Resources
+### References
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [GSOC 2023 Timeline](https://summerofcode.withgoogle.com/programs/2023)
 - [NumFOCUS GSOC Contributing Guide](https://github.com/numfocus/gsoc/blob/master/CONTRIBUTING-students.md)
-
+- [NumFOCUS 2022 Project List](https://github.com/numfocus/gsoc/blob/master/2022/ideas-list.md)
+- [PyMC 2023 Project List](https://github.com/pymc-devs/pymc/wiki/GSoC-2023-projects)
 
 
 

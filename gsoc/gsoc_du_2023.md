@@ -43,8 +43,8 @@ In your application please include answers to the following questions:
 Once you’ve selected a project assignment from the ideas page, please include a well-defined, weekly schedule with clear milestones and deliverables around it. Alternatively, if you want to propose your own idea then please include outline, goals, and a well-defined weekly schedule with clear milestones and deliverables.
 
 ### Potential Mentors
-- Joe Torreggiani
-- Reshama Shaikh
+- Joe Torreggiani: [@jtorreggiani](https://github.com/jtorreggiani)
+- Reshama Shaikh: [@reshamas](https://github.com/reshamas)
 
 ### Contact
 - Email:  info@dataumbrella.org

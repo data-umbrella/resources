@@ -33,4 +33,9 @@ Once you’ve selected a project assignment from the ideas page, please include 
 
 ### Resources
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [GSOC 2023 Timeline](https://summerofcode.withgoogle.com/programs/2023)
 - [NumFOCUS GSOC Contributing Guide](https://github.com/numfocus/gsoc/blob/master/CONTRIBUTING-students.md)
+
+
+
+

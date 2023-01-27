@@ -22,6 +22,7 @@ The [Data Events Board](https://events.dataumbrella.org/about) is a Data Umbrell
 2. Should have some knowledge of:
     - Git basics
     - Basic HTML / CSS
+    - [Markdown](https://github.com/data-umbrella/resources/blob/main/intro-unix-markdown/4_markdown.md)
 
 Note: prospective interns can have acquired skills via a computer science degree, a bootcamp program, or coding classes.
 

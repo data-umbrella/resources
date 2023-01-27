@@ -1,5 +1,8 @@
 # Data Umbrella: 2023 Google Summer of Code
 
+## About: Data Events Board
+The [Data Events Board](https://events.dataumbrella.org/about) is a Data Umbrella initiative. This platform is for the community to share their events. In the spirit of open source, this event board has been built using open source software (Python, Django, React) and the application code is publicly available.
+
 ### Tips on Submitting a Proposal
 
 ### Required Skills

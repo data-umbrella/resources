@@ -23,6 +23,8 @@ The [Data Events Board](https://events.dataumbrella.org/about) is a Data Umbrell
     - Git basics
     - Basic HTML / CSS
 
+Note: prospective interns can have acquired skills via a computer science degree, a bootcamp program, or coding classes.
+
 ### Pre-work
 - Set up your [working environment](https://github.com/data-umbrella/event-board-web/blob/main/CONTRIBUTING.md)
 - Submit at least one pull request to one of these repo's:
@@ -53,6 +55,10 @@ Once you’ve selected a project assignment from the ideas page, please include 
 - [NumFOCUS GSOC Contributing Guide](https://github.com/numfocus/gsoc/blob/master/CONTRIBUTING-students.md)
 - [NumFOCUS 2022 Project List](https://github.com/numfocus/gsoc/blob/master/2022/ideas-list.md)
 - [PyMC 2023 Project List](https://github.com/pymc-devs/pymc/wiki/GSoC-2023-projects)
+
+---
+
+# Project List
 
 
 

@@ -29,3 +29,6 @@ Once you’ve selected a project assignment from the ideas page, please include 
 
 ### Contact
 - Email:  info@dataumbrella.org
+
+### Resources
+- [NumFOCUS GSOC Contributing Guide](https://github.com/numfocus/gsoc/blob/master/CONTRIBUTING-students.md)

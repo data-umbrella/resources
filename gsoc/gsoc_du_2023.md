@@ -10,9 +10,10 @@ The [Data Events Board](https://events.dataumbrella.org/about) is a Data Umbrell
     - Python / Flask
     - Foundation of Python / Django
     - React 
-    - Basic HTML / CSS / JavaScript
+    - JavaScript
 2. Should have some knowledge of:
     - Git basics
+    - Basic HTML / CSS
 
 ### Pre-work
 - Set up your [working environment](https://github.com/data-umbrella/event-board-web/blob/main/CONTRIBUTING.md)

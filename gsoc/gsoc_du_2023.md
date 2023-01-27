@@ -65,16 +65,4 @@ Once you’ve selected a project assignment from the ideas page, please include 
 - [NumFOCUS 2022 Project List](https://github.com/numfocus/gsoc/blob/master/2022/ideas-list.md)
 - [PyMC 2023 Project List](https://github.com/pymc-devs/pymc/wiki/GSoC-2023-projects)
 
----
-
-# Project List
-- UI (user interface)
-- Project: UI (image resizing, front end feature improvements) (front-end and back-end changes)
-- Project: Add UI functionalities (map, calendar, weekly digest)
-- Project: Next.js routing (upcoming migration from Create React App to Next.js)
-- Project: Write end-to-end tests
-- Project: Set up a staging server
-  
-## Project Description
-- Expected outcome:  
 

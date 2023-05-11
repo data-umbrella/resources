@@ -33,6 +33,7 @@ Twitter:  [@reshamas](https://twitter.com/reshamas)
 #### Added Bonus
 How to add an emoji to your bash prompt
 
-
+#### Notes
+This talk was originally presented at [PyGotham 2016](https://2016.pygotham.org/talks/296/beginner-pythonistas-sett/).  Unfortunately, the video from that event was not available due to technical recording issues. 
  
  

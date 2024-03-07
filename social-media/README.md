@@ -1,5 +1,6 @@
 ### Schedule
 
+2x / week
 - March 2024: Software Testing (Eric Ma)
 - March 2024: LLMs (Pablo)
 - March 2024: Shiny (Gordon)

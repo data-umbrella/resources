@@ -20,5 +20,5 @@
 ---
   
 #### April: Week 1
-- April 2024:  OpenRefine (Martin) 🟨 (RS to add text)
-- April 2024:  
+- April 2024: OpenRefine (Martin) 🟨 (RS to add text)
+- April 2024: Create a blog with Jekyll (Lauren)  🟨 (RS to add text)

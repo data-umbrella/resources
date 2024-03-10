@@ -13,8 +13,10 @@
 - March 2024: Probabilistic (Austin)
 
 #### March: Week 4
-- March 2024: BRMS (Mitzi)
-- March 2024: OpenRefine (Martin)
+- March 2024: BRMS (Mitzi)  🟨 (RS to add text)
+- March 2024: OpenRefine (Martin) 🟨 (RS to add text)
+
+---
   
 #### April: Week 1
 - April 2024:  

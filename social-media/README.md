@@ -5,13 +5,12 @@
 - March 7 2024: Software Testing (Eric Ma) ✅
 
 #### March: Week 2
-- March 12 2024: LLMs (Pablo)
+- March 11 2024: LLMs (Pablo) ✅
 - March 15 2024: Bash Scripting (Rebecca)
 
 #### March: Week 3
 - March 2024: Shiny (Gordon)
 - March 2024: Quarto (Thomas M)
-
 
 #### March: Week 4
 - March 2024: Probabilistic (Austin)

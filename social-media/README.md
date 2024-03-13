@@ -14,7 +14,7 @@
 
 #### March: Week 4
 - March 2024: Probabilistic (Austin)
-- March 2024: BRMS (Mitzi)  🟨 (RS to add text)
+- March 2024: BRMS (Mitzi) 
 
 ---
   

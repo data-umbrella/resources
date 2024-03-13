@@ -6,7 +6,7 @@
 
 #### March: Week 2
 - March 12 2024: LLMs (Pablo)
-- March 15 2024: Bash Scripting (Rebecca)  🟨 (RS to add text)
+- March 15 2024: Bash Scripting (Rebecca)
 
 #### March: Week 3
 - March 2024: Shiny (Gordon)

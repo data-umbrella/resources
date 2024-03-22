@@ -6,13 +6,13 @@
 
 #### March: Week 2
 - March 11 2024: LLMs (Pablo) ✅
-- March 15 2024: Bash Scripting (Rebecca) ✅
 
 #### March: Week 3
-- March 18 2024: Shiny (Gordon) ✅
-- March 22 2024: Quarto (Thomas M) ✅
+- March 18 2024: Bash Scripting (Rebecca) ✅
+- March 22 2024: Shiny (Gordon) ✅
 
 #### March: Week 4
+- March 22 2024: Quarto (Thomas M) ✅
 - March 25 2024: Probabilistic (Austin) ✅
 - March 29 2024: BRMS (Mitzi) ✅
 

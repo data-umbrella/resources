@@ -17,7 +17,20 @@
 
 ---
   
-#### April: Week 1
-- March 29 2024: BRMS (Mitzi) ✅
-- April 2024: OpenRefine (Martin) 🟨 (RS to add text)
-- April 2024: Create a blog with Jekyll (Lauren)  🟨 (RS to add text)
+#### April 2024: Week 1
+- March 29: BRMS (Mitzi) ✅
+- April ? : OpenRefine (Martin) 🟨 (RS to add text)
+
+#### April 2024: Week 2
+- April ?: Create a blog with Jekyll (Lauren)  🟨 (RS to add text)
+- April ?:
+  
+#### April 2024: Week 3
+- April ?:
+- April ?:
+
+#### April 2024: Week 4
+- April ?:
+- April ?:
+
+---

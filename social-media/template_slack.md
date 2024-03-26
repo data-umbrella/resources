@@ -1,4 +1,4 @@
-## Template for sharing on Slack
+## Template for sharing on Slack DTC
 
 Date: <date and time, don't forget the time zones>
 

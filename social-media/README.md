@@ -18,7 +18,7 @@
 ---
   
 #### April 2024: Week 1
-- March 29: BRMS (Mitzi) ✅
+- March 29: BRMS (Mitzi) 
 - April 01: OpenRefine (Martin)
 
 #### April 2024: Week 2

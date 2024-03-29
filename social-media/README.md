@@ -22,6 +22,7 @@
   
 #### April 2024: Week 1
 - April 01: OpenRefine (Martin)
+- April 05: Python vs R (Ian)
 
 #### April 2024: Week 2
 - April ?: Create a blog with Jekyll (Lauren)  🟨 (RS to add text)

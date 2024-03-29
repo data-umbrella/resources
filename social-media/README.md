@@ -13,12 +13,14 @@
 
 #### March: Week 4
 - March 25 2024: Quarto (Thomas M) ✅
-- March 29 2024: Probabilistic (Austin) ✅
+
+#### March: Week 4
+- March 25 2024: Probabilistic (Austin) ✅
+- March 29 2024: BRMS (Mitzi) ✅
 
 ---
   
 #### April 2024: Week 1
-- March 29: BRMS (Mitzi) 
 - April 01: OpenRefine (Martin)
 
 #### April 2024: Week 2

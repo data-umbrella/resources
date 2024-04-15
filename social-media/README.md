@@ -28,7 +28,7 @@
   
 #### April 2024: Week 3
 - April ?: [Create a blog with Jekyll (Lauren)](https://github.com/data-umbrella/resources/blob/main/social-media/49_blog.md)
-- April ?:
+- April ?: [Jupyter & pandas](https://github.com/data-umbrella/resources/blob/main/social-media/29_jupyter_pandas.md)
 
 #### April 2024: Week 4
 - April ?:

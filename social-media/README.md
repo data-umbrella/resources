@@ -23,15 +23,15 @@
 - April 04: Python vs R (Ian) ✅
 
 #### April 2024: Week 2
-- April ?: Create a blog with Jekyll (Lauren)  🟨 (RS to add text)
-- April ?:
+- April ?:   NONE
+- April ?:   NONE
   
 #### April 2024: Week 3
-- April ?:
+- April ?: [Create a blog with Jekyll (Lauren)](https://github.com/data-umbrella/resources/blob/main/social-media/49_blog.md)
 - April ?:
 
 #### April 2024: Week 4
 - April ?:
-- April ?:
+- April ?: 🟨 (RS to add text)
 
 ---

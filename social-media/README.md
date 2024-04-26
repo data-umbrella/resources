@@ -31,7 +31,7 @@
 - April 26: [Jupyter & pandas](https://github.com/data-umbrella/resources/blob/main/social-media/29_jupyter_pandas.md)
 
 #### April 2024: Week 4
-- April ?:
+- April ?:  [Build with Gemini](99_gemini.md)
 - April ?: 🟨 (RS to add text)
 
 ---

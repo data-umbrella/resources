@@ -34,6 +34,6 @@
 - April 29:  [Build with Gemini](99_gemini.md)
 
 #### May 2024: Week 1
-- April ?: 🟨 GitHub Actions (RS to add text)
+- May ? : [GitHub Actions](42_github_actions.md)
 
 ---

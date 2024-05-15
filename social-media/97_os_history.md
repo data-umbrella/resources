@@ -1,4 +1,24 @@
+## ASA text
+
+
+Video: [A Briefer History of Open Source](https://youtu.be/LLciYo3rqTQ)
+
+A link to the **slides** is included in the video description.
+
+This presentation covered a quick history of Open Source, from the beginnings of its precursor, the Free Software movement in the 1980s until the present day. It covers important milestones in the development of Open Source within their historical context, and it concludes with some ideas about post-open source.
+
+NOTE: There are detailed timestamps to see the full topics and packages covered in this presentation.
+
+Subscribe to the [Data Umbrella YouTube](https://www.youtube.com/@DataUmbrella) for more videos on open source, python, rstats, data science and statistics.
+
+
+
+
+
+
 ---
+
+#### Slack text
 (dtc, py 2024-03-30)
 
 :desktop_computer: WHAT is it:

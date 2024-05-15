@@ -1,7 +1,7 @@
-## Schedule for ASA
+# Schedule for ASA
 
 
-### May 2024
+## May 2024
 
 #### May 2024: Week 1
 - May 07: [GitHub Actions](42_github_actions.md)

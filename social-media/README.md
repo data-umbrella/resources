@@ -4,7 +4,7 @@
 ## May 2024
 
 #### May 2024: Week 1
-- May 07: [GitHub Actions](42_github_actions.md)
+- May 07: [GitHub Actions](42_github_actions.md) ✅
 
 #### May 2024: Week 3
 - May 20: [Open Source History](97_os_history.md)

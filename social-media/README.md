@@ -1,5 +1,12 @@
 # Schedule for ASA
 
+## June 2024
+
+#### June 2024: Week 3
+- Jun xx: [Navigating Ethical Data Science](99_ethics.md)  
+
+
+---
 
 ## May 2024
 
@@ -8,8 +15,6 @@
 
 #### May 2024: Week 3
 - May 20: [Open Source History](97_os_history.md)
-
-
 
 ---
   

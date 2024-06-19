@@ -3,7 +3,7 @@
 ## June 2024
 
 #### June 2024: Week 3
-- Jun xx: [Navigating Ethical Data Science](100_ethics.md)  
+- Jun 19: [Navigating Ethical Data Science](100_ethics.md)  
 
 
 ---

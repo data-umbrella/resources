@@ -5,6 +5,7 @@
 #### June 2024: Week 3
 - Jun 19: [Navigating Ethical Data Science](100_ethics.md)  
 
+- Jun xx: [Intro to Terminal](09_intro_terminal.md)
 
 ---
 

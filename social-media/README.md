@@ -1,12 +1,15 @@
 # Schedule for ASA
 
+## July 2024
+
+- Jul 02: [Intro to Terminal](09_intro_terminal.md)
+
+---
+
 ## June 2024
 
 #### Week 3
 - Jun 19: [Navigating Ethical Data Science](100_ethics.md)  
-
-#### Week 4
-- Jun xx: [Intro to Terminal](09_intro_terminal.md)
 
 ---
 

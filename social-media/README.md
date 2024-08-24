@@ -1,10 +1,11 @@
 # Schedule for ASA
 
+## August 2024
+- Aug 24: [Energy](102_energy.md)
+- Aug 24: Amy Hodler: Knowledge Graphs
+
 ## July 2024
-
 - Jul 02: [Intro to Terminal](09_intro_terminal.md)
-
-- Jul 24: [Energy](102_energy.md)
 
 ---
 

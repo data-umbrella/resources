@@ -2,10 +2,10 @@ Dear Colleagues,
 
 Data Umbrella has this upcoming webinar, which is **free and open to the public**.
 
-**Title:** Best Practices for Creating a Data Science Team
-**Date:**  Tues, Sep 10, 2024
-**Time:**  9am PT / 12pm ET
-**Registration:** Via Meetup: https://www.meetup.com/data-umbrella/events/302967694/
+- **Title:** Best Practices for Creating a Data Science Team
+- **Date:**  Tues, Sep 10, 2024
+- **Time:**  9am PT / 12pm ET
+- **Registration:** Via Meetup: https://www.meetup.com/data-umbrella/events/302967694/
 
 ### About
 

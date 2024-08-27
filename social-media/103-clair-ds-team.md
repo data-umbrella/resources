@@ -21,7 +21,7 @@ This presentation covers:
 - Suggestions for how to right the ship if your data science team was formed using the “upside-down” approach
 - Cautionary tales for the near future of data science teams and history repeating
 
-### Speaker: Clair Sullivan
+### Speaker: [Clair Sullivan](https://www.linkedin.com/in/dr-clair-sullivan-09914342/)
 Dr. Clair Sullivan is currently the Founder and CEO of Clair Sullivan and Associates, a company dedicated to providing data science consulting services. Her career spans over 22 years of working with data, with interests in graphs, natural language processing, and generative AI. She has worked in a variety of settings ranging from director-level roles to individual contributor at a variety of startups to academia and the federal government.
 
 ### Recording

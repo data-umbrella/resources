@@ -12,7 +12,8 @@ Flux is an elegant approach to machine learning. It's a 100% pure-Julia stack, a
 
 This presentation will introduce the basics of machine learning with FluxML in Julia, how it differs from other frameworks, and why it matters.
 
-**Speaker:** Kyle Daruwalla
+**Speaker:** Kyle Daruwalla  
 [Kyle Daruwalla](https://www.linkedin.com/in/kyle-daruwalla-0a302a8a/) has a Ph.D. in electrical engineering and is a NeuroAI Scholar at Cold Spring Harbor Laboratory (CSHL) in New York.
 
+**Data Umbrella:**  
 Subscribe to the [Data Umbrella YouTube](https://www.youtube.com/@DataUmbrella) for more videos on open source, python, rstats, data science and statistics.

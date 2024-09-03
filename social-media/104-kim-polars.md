@@ -5,7 +5,7 @@ Data Umbrella has this upcoming webinar, which is **free and open to the public*
 - **Title:** [Polars for Data Analysis in Python](https://www.meetup.com/data-umbrella/events/302970786/)
 - **Date:**  Tues, Oct 8, 2024
 - **Time:**  9am PT / 12pm ET
-- **Registration:** Via Meetup: https://www.meetup.com/data-umbrella/events/302967694/
+- **Registration:** Via Meetup: https://www.meetup.com/data-umbrella/events/302970786/
 - **Cost:** Free
 
 ### About
